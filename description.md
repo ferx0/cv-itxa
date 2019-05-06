@@ -8,7 +8,7 @@
 
 UNAM ENP 5: José Vasconcelos (2013-2016)
 UNAM FCA: Licenciatura en Informática (2017-presente)
-El semestre en curso es el 6 de 8
+  Me encuentro cursando el sexto semestre de la carrera
 # Experiencia Profesional
 Tecnico Auxiliar Contable (2016) en la Delegacion de Coyoacan en la Unidad Departamental de Tesoreria y Autogenerados en el programa "Apoyo en las areas administrativas y operativas en el organo politico administrativo de Coyoacan"
 
