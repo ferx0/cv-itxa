@@ -1,18 +1,30 @@
 # Acerca de mí:
 - Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+- Felipe Itzamatul Guillen Martinez
+  itxa.guillen@gmail.com
+  @itxa
 
 # Formación Académica
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+UNAM ENP 5: José Vasconcelos (2013-2016)
+UNAM FCA: Licenciatura en Informática (2017-presente)
+El semestre en curso es el 6 de 8
 # Experiencia Profesional
+Tecnico Auxiliar Contable (2016) en la Delegacion de Coyoacan en la Unidad Departamental de Tesoreria y Autogenerados en el programa "Apoyo en las areas administrativas y operativas en el organo politico administrativo de Coyoacan"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
 # Idiomas
+Alcance el nivel avanzado 2 del CELEX del IPN
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
 # Habilidades Técnicas
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Análisis y modelado UML
+Programación
+-Intermedia en "C"
+-Intermedia en "Java"
+-Básica en "JavaScript"
+-Básica en "Swift 4"
+Photoshop basico
+Paqueteria Office intermedia
+Diseño web
+-HTML 5
+-CSS 3
+-Bootstrap 4
